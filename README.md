@@ -12,6 +12,6 @@ occur on any perticular website is Bot or not. The competency challenge hosted b
 
 - ### Data Analysis and Visualisation
 
-	_Python_
+	__Python__
 		- [Analysis on Zomato Datasets](https://github.com/shubham1894/Data-Science-Portfolio/blob/main/Zomato%20EDA.ipynb): Exploratory Data Analysis
 on Zomato Datasets usings visualisations tools such as Matplotlib and seaborn. 
