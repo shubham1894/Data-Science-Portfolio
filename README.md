@@ -8,7 +8,7 @@ Data Visualization and Data Analysis.
 
 	- [Bot Prediction](https://github.com/shubham1894/Data-Science-Portfolio/blob/main/bot-prediction/BotTraining.ipynb): Building a Model that can detect 
 the Non Human Traffic present on a website. This model is based upon Classification problem on Supervised Machine Learning to predict weather the traffic 
-occur on any perticular website is Bot or not. The competency challenge hosted by AlmaBetter on [Kaggle](https://www.kaggle.com/competitions/bot-prediction).
+occur on any perticular website is Bot or not. The competency challenge is hosted by AlmaBetter on [Kaggle](https://www.kaggle.com/competitions/bot-prediction).
 
 - ### Data Analysis and Visualisation
 
@@ -22,7 +22,7 @@ This datasets is primarily focused on how to deal with real world messy datasets
 		- [Atliq Hospitality Revenue Analysis using Pandas](https://github.com/shubham1894/Data-Science-Portfolio/blob/main/Atliq%20Hospitality%20Revenue/HotelBooking2.ipynb):
 Atliq Grands owns multiple five-star hotels across India providing them insights from their historical data.As a strategic move, 
 the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence”. I used various visulizing tool such as Pandas,Matplotlib and Seaborn in order to regain 
-their market share and revenue in the luxury/business hotels category. This Challenge was hosted by [codebasic](https://codebasics.io/event/codebasics-resume-project-challenge)
+their market share and revenue in the luxury/business hotels category. This Challenge was hosted by [codebasic](https://codebasics.io/event/codebasics-resume-project-challenge).
 
 	- __Tableau__
 		- [Atliq Hospitality Revenue Analysis using Tableau Dashboard](https://github.com/shubham1894/Data-Science-Portfolio/tree/main/Tableau%20Dashboard/Atliq%20Hospitality%20Revenue):
