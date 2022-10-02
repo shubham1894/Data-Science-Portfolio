@@ -10,3 +10,8 @@ Data Visualization and Data Analysis.
 the Non Human Traffic present on a website. This model is based upon Classification problem on Supervised Machine Learning to predict weather the traffic 
 occur on any perticular website is Bot or not. The competency challenge hosted by AlmaBetter on [Kaggle](https://www.kaggle.com/competitions/bot-prediction).
 
+- ### Data Analysis and Visualisation
+
+	_Python_
+		- [Analysis on Zomato Datasets](https://github.com/shubham1894/Data-Science-Portfolio/blob/main/Zomato%20EDA.ipynb): Exploratory Data Analysis
+on Zomato Datasets usings visualisations tools such as Matplotlib and seaborn. 
