@@ -19,7 +19,13 @@ on Zomato Datasets usings visualisations tools such as Matplotlib and seaborn.
 		- [Data Cleaning of IMDB Datasets](https://github.com/shubham1894/Data-Science-Portfolio/blob/main/EDA%20Imdb%20Dataset/EDA_on_IMDB_Dataset.ipynb):
 This datasets is primarily focused on how to deal with real world messy datasets using python programming and pandas.
 
-		- [Atliq Hospitality Revenue Analysis](https://github.com/shubham1894/Data-Science-Portfolio/blob/main/Atliq%20Hospitality%20Revenue/HotelBooking2.ipynb):
+		- [Atliq Hospitality Revenue Analysis using Pandas](https://github.com/shubham1894/Data-Science-Portfolio/blob/main/Atliq%20Hospitality%20Revenue/HotelBooking2.ipynb):
+Atliq Grands owns multiple five-star hotels across India providing them insights from their historical data.As a strategic move, 
+the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence”. I used various visulizing tool such as Pandas,Matplotlib and Seaborn in order to regain 
+their market share and revenue in the luxury/business hotels category. This Challenge was hosted by [codebasic](https://codebasics.io/event/codebasics-resume-project-challenge)
 
-
-
+	- __Tableau__
+		- [Atliq Hospitality Revenue Analysis using Tableau Dashboard](https://github.com/shubham1894/Data-Science-Portfolio/tree/main/Tableau%20Dashboard/Atliq%20Hospitality%20Revenue):
+Atliq Grands owns multiple five-star hotels across India providing them insights from their historical data.As a strategic move, 
+the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence”. I used Tableau Dashboard in order to regain their market share and revenue in the luxury/business hotels category. 
+This Challenge was hosted by [codebasic](https://codebasics.io/event/codebasics-resume-project-challenge).
