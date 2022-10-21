@@ -23,6 +23,8 @@ This datasets is primarily focused on how to deal with real world messy datasets
 Atliq Grands owns multiple five-star hotels across India providing them insights from their historical data.As a strategic move, 
 the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence”. I used various visulizing tool such as Pandas,Matplotlib and Seaborn in order to regain 
 their market share and revenue in the luxury/business hotels category. This Challenge was hosted by [codebasic](https://codebasics.io/event/codebasics-resume-project-challenge).
+		 - [Atliq FMCG Domain Data Exploration using Pandas](https://github.com/shubham1894/Data-Science-Portfolio/blob/main/Atliq%20FMCG%20Analysis/FMCG%20Domain%20Data%20Exploration.ipynb):
+AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodra. They want to expand to other metro/tier1 cities in the next 2 years.
 
 	- __Tableau__
 		- [Atliq Hospitality Revenue Analysis using Tableau Dashboard](https://github.com/shubham1894/Data-Science-Portfolio/tree/main/Tableau%20Dashboard/Atliq%20Hospitality%20Revenue):
