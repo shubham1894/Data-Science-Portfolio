@@ -14,7 +14,7 @@ occur on any perticular website is Bot or not. The competency challenge is hoste
 
 	- __Python__
 		- [Analysis on Zomato Datasets](https://github.com/shubham1894/Data-Science-Portfolio/blob/main/Zomatodataset/Zomato%20EDA.ipynb): Exploratory Data Analysis
-on Zomato Datasets usings visualisations tools such as Matplotlib and seaborn. 
+on **Zomato Datasets** usings visualisations tools such as **Matplotlib** and **Seaborn**. 
 
 		- [Data Cleaning of IMDB Datasets](https://github.com/shubham1894/Data-Science-Portfolio/blob/main/EDA%20Imdb%20Dataset/EDA_on_IMDB_Dataset.ipynb):
 This datasets is primarily focused on how to deal with real world messy datasets using python programming and pandas.
