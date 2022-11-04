@@ -6,9 +6,7 @@ Data Visualization and Data Analysis.
 
 - ### Machine Learning
 
-	- [Bot Prediction](https://github.com/shubham1894/Data-Science-Portfolio/blob/main/bot-prediction/BotTraining.ipynb): Building a Model that can detect 
-the Non Human Traffic present on a website. This model is based upon Classification problem on Supervised Machine Learning to predict weather the traffic 
-occur on any perticular website is Bot or not. The competency challenge is hosted by AlmaBetter on [Kaggle](https://www.kaggle.com/competitions/bot-prediction).
+	- [Bot Prediction](https://github.com/shubham1894/Data-Science-Portfolio/blob/main/bot-prediction/BotTraining.ipynb): Building a Model that can detect the Non-Human Traffic present on a website. This model is based upon the Classification problem of Supervised Machine Learning to predict whether the traffic occur on any particular website is a Bot or not. The competency challenge is hosted by AlmaBetter on [Kaggle](https://www.kaggle.com/competitions/bot-prediction).
 
 - ### Data Analysis and Visualisation
 
